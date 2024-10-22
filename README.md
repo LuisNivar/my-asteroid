@@ -12,7 +12,7 @@ My-asteroid is a clone of the iconic arcade game Asteroids by Atari in 1979. It'
 
 ## Play the Game
 
-You can play my-asteroid online at [my-asteroid](https://my-asteroid.vercel.app). 
+You can play my-asteroid online at [my-asteroid](https://my-asteroid-luis-nivar.vercel.app). 
 
 ## Built With
 
